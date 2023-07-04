@@ -1,0 +1,2 @@
+This project is a web application that allows a user to view the weather forecast of a city by searching the city's name. You can also include the date and time in your search, as well as receive suggestions
+based on the weather.
