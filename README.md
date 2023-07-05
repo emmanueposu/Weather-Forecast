@@ -5,6 +5,6 @@ based on the weather.
 \
 UI screenshots:
 
-![Capture1](https://github.com/emmanueposu/Weather-Forecast/assets/102590682/0a51d24c-6f33-466d-9b7d-4d7f9ee6b700)
+![Capture1](https://github.com/emmanueposu/Weather-Forecaster/assets/102590682/41fa8a3d-b9e6-4bb4-a05d-633449b30825)
 
-![Capture2](https://github.com/emmanueposu/Weather-Forecast/assets/102590682/345c2d42-453a-452e-906e-a58fc35f4136)
+![Capture2](https://github.com/emmanueposu/Weather-Forecaster/assets/102590682/4fefebfe-8837-4911-87d3-64897e23f94e)
